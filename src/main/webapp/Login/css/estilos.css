@@ -1,0 +1,51 @@
+#border {
+  border: 1px solid black;
+}
+
+table,td {
+	border: 1px solid black;
+}
+.image {
+
+  padding-top:100px;
+  padding-bottom:100px
+}
+#pieDocumento {
+  color:white;
+  width: 100%;
+    border: 3px solid #000000;
+    height:50px;
+    background-image:url(https://i.pinimg.com/originals/c7/70/75/c7707556553333014a8ac981c31776b4.gif);
+  font-size: 1em;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+#pieDocumento2 {
+  width: 100%;
+    height:70px;
+    background-image: linear-gradient(to bottom , white, black);
+  font-size: 1em;
+  font-style: italic;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+#grad2 {
+  background-image:url(https://i.pinimg.com/originals/c7/70/75/c7707556553333014a8ac981c31776b4.gif);
+}
+#rey {
+  	background-image: url(https://www.tuexperto.com/wp-content/uploads/2021/01/gif-reyes.gif);
+  	background-repeat: no-repeat;
+    background-size: cover;
+}
+#rey2 {
+  	background-image: url(https://img.freepik.com/vector-gratis/bosque-noche-sobre-fondo-estrellado-oscuro-siluetas-arboles-fondo-noche-estrellas-bosque-noche_172933-63.jpg);
+  	background-repeat: no-repeat;
+    background-size: cover;
+}
+#color{
+  color: white;
+}
